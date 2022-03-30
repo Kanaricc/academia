@@ -7,6 +7,11 @@ academia: true
 
 I am a senior year undergraduate student at Beijing University of Posts and Telecommunications, majoring in Computer Science and Technology. I am enrolling in [CVTEAM](https://cvteam.buaa.edu.cn/), State Key Laboratory of Virtual Reality Technology and Systems, School of Computer Science and Engineering, Beihang University, as a master candidate.
 
+## Research Interests
+
+* Computer vision
+* Machine/Deep learning
+
 ## Education
 
 **2018 ~ Present: Beijing University of Posts and Telecommunications (BUPT)**
