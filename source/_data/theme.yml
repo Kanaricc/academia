@@ -13,6 +13,7 @@ since: 2018
 menu:
   Publications: /#Publications
   About: /
+  关于: /关于
 
 # flink picture will load if avator link calls on error
 loading_bg:
